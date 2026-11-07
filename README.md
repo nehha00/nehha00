@@ -1,4 +1,18 @@
+# 💫 Hi 👋, I'm Neha Shende
 
+💻 MCA Student | Java Programmer | Technology Enthusiast
+
+I'm passionate about technology, software development, and exploring innovative ideas. I enjoy solving problems, experimenting with different technologies, and building solutions that make a difference.
+
+📍 **Location:** India
+
+💡 **Interests:** Java, Web Development, Software Engineering, Artificial Intelligence, and Emerging Technologies.
+
+🤝 **Open to:** Collaboration, Knowledge Sharing, and Connecting with Fellow Developers.
+
+📫 **Connect With Me:** [LinkedIn](https://www.linkedin.com/in/nehashende00/) | [GitHub](https://github.com/nehha00)
+
+⚡ **Fun Fact:** Curious mind, endless ideas, and always fascinated by how technology works!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nehashende00) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nehashende358@gmail.com) 
 
